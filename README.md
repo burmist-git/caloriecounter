@@ -4,14 +4,12 @@
 
 |            date                |         short comment                               | 
 | -------------------------------|-----------------------------------------------------|
-|  Tue Mar 24 20:54:35 CET 2020  |        **START**                                    |
-|  Tue Mar 24 20:54:35 CET 2020  |        **STOP**                                     |
+|  Thu Nov 26 18:31:49 CET 2020  |        **START**                                    |
 
-   Status : **Developed**
 
 ## 1. Description
 
-   This program for storing and plotting the weight and body size.
+   This program for storing and plotting the calorie consumption.
 
 ## 2. Useful links
    * Markdown syntax guide --> (https://confluence.atlassian.com/display/STASH038/Markdown+syntax+guide)

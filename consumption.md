@@ -8,9 +8,4 @@
 |                                | *                                                   |
 |                                | *                                                   |
 |                                | TOTAL: 123 kCal                                     |
-|  Thu Nov 28                    | *123 kCal                                           |
-|                                | *                                                   |
-|                                | *                                                   |
-|                                | *                                                   |
-|                                | TOTAL: 123 kCal                                     |
 

@@ -12,4 +12,14 @@
 |                                |                                                     |
 |                                |  TOTAL: 3263.75 kCal                                |
 |                                |                                                     |
-|  Sun Nov 29 10:47:29 CET 2020  |  120 kCal                                           |
+|  Sun Nov 29 10:47:29 CET 2020  |  725.92 kCal                                        |
+|                                |  775.20 kCal                                        |
+|                                |  956.9 kCal                                         |
+|                                |                                                     |
+|                                |  TOTAL: 2458 kCal                                   |
+|                                |                                                     |
+|  Mon Nov 30 14:27:47 CET 2020  |  120 kCal                                           |
+|                                |  510.75 kCal                                        |
+|                                |  891.4 kCal                                         |
+|                                |                                                     |
+|                                |  TOTAL: 1522.2 kCal                                 |

@@ -25,6 +25,7 @@
       <<0.6*27<<" + "   //bolgarskij perec
       <<endl;
   */
+  /*
   cout<<5.00/9.0*1.0*201<<" + " //HLEB
       <<39/2.0<<" + "           //suhoj hleb
       <<0.25*325<<" + "         //Gorgonzolla
@@ -36,4 +37,33 @@
       <<0.6*47<<" + "           //jabloco
       <<0.6*96<<" "             //banan
       <<endl;
+  */
+  /*
+  cout<<38 + 18<<" + "  //suhoj HLEB
+      <<65<<" + "       //syr
+      <<1.0*27.0<<" + " //Champinjony
+      <<0.3*41<<" + "   //Luk
+      <<1.2*157<<" + "  //jajco
+      <<0.6*14<<" + "   //pomidor
+      <<0.06*828<<" "   //olivkovoe maslo
+      <<endl;
+  */
+  /*
+  cout<<0.75*113<<" + " //krasnaja ryba  
+      <<0.65*350<<" + " //ris
+      <<0.20*325<<" + " //Gorgonzolla
+      <<38<<" + "       //suhoj HLEB
+      <<4.0*14<<" + "   //pomidor
+      <<0.06*828<<" "   //olivkovoe maslo
+      <<endl;
+  */
+  cout<<2.0*113<<" + "  //kurinaja grudka  
+      <<0.65*350<<" + " //pasta
+      <<100<<" + "      //pesto
+      <<2.5*24<<" + "   //kabachok
+      <<60<<" + "       //Finiki
+      <<60<<" + "       //syr tverduj
+      <<0.06*828<<" + " //olivkovoe maslo
+      <<1.5*65<<" "     //jogurt
+      <<endl;  
 }

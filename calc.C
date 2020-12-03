@@ -57,6 +57,7 @@
       <<0.06*828<<" "   //olivkovoe maslo
       <<endl;
   */
+  /*
   cout<<2.0*113<<" + "  //kurinaja grudka  
       <<0.65*350<<" + " //pasta
       <<100<<" + "      //pesto
@@ -66,4 +67,60 @@
       <<0.06*828<<" + " //olivkovoe maslo
       <<1.5*65<<" "     //jogurt
       <<endl;  
+  */
+  /*
+  cout<<1.7*63<<" + "   //jogurt
+      <<0.60*14<<" + "  //pomidor
+      <<0.40*41<<" + "  //luk
+      <<0.03*828<<" + " //olivkovoe maslo
+      <<1.0*27.0<<" + " //Champinjony
+      <<0.4*265.0<<"  " //hleb
+      <<endl;  
+  */
+  /*
+  cout<<0.7*325<<" + "   //ris  
+      <<1.1*145<<" + "  //seledka
+      <<4.0*30<<" + "   //salat
+      <<0.03*828<<"  "  //olivkovoe maslo
+      <<endl;
+  */
+  /*
+  cout<<1.0*145<<" + "  //seledka
+      <<2.0*91<<" + "   //syr
+      <<0.6*201<<" + "  //HLED chernyj
+      <<0.4*265.0<<"  " //hleb
+      <<endl;
+  */
+  /*
+  cout<<2.0*490<<" + "   //double chisburger
+      <<243<<" + "       //mcsandie
+      <<0.4*265.0<<" + " //hleb
+      <<4.0*30<<" + "    //salat
+      <<0.06*828<<"  "   //olivkovoe maslo
+      <<endl;
+  */
+  /*
+  cout<<1.8*47<<" + " //jabloco
+      <<1.2*63<<" + " //jogurt  
+      <<1.2*48<<"  "  //moloko
+      <<endl;
+  */
+  /*
+  cout<<5.0/3.0*173<<" + " //govjadina
+      <<0.5*125<<" + " //sur  
+      <<2.0*91<<" + "   //tvorog
+      <<0.4*201<<" + "  //HLED chernyj
+      <<1.2*14<<" + "//salat
+      <<0.03*828<<"  "   //olivkovoe maslo
+      <<endl;
+  */  
+  cout<<5.0*42<<" + "        //pivo
+      <<1.25*170 <<" + "     //mozarella
+      <<5.0*30<<" + "        //salat
+      <<5/3.0/2.0*173<<" + " //govjadina
+      <<1.2*85<<" + "        //krivetki
+      <<2.5*24<<" + "        //kabachok
+      <<0.06*828<<"  "       //olivkovoe maslo
+      <<endl;
+  
 }

@@ -147,6 +147,7 @@
       <<100<<" "  //hleb
       <<endl;
   */
+  /*
   cout<<1.2*157<<" + "  //jajca
       <<0.6*27<<" + "  //shampinjony
       <<0.6*14<<" + "  //pomidor
@@ -154,5 +155,44 @@
       <<0.4*265<<" + "  //HLEB
       <<50<<" + "  //shokoladka
       <<0.3*380<<" "  //syr
+      <<endl;
+  */
+  /*
+  cout<<1.5*68<<" + "  //kvark
+      <<1.0*91<<" + "  //tvorog
+      <<0.3*15<<" + "  //pomidor
+      <<15<<" "  //finik
+      <<endl;  
+  */
+  /*
+  cout<<510<<" + "  //big mac
+      <<254<<" + "  //nagetsy
+      <<258<<" + "  //pirojok
+      <<310<<" + "  //morojenoe
+      <<50<<" "  //shokolad
+      <<endl;
+  */
+  /*
+  cout<<500<<" + " //ujun
+      <<25*42<<" + " //pivo
+      <<700<<" "  //sneki
+      <<endl;
+  */
+  /*
+  cout<<3.5/2.0*77<<" + " //kartoshka
+      <<0.1*828<<" + "  //olivkovoe maslo
+      <<1.0*27<<" + " //shampinjony
+      <<1.2*157<<" + " //jajca
+      <<0.3*380<<" + "  //syr
+      <<0.5*265<<" "  //helb
+      <<endl;
+  */
+  cout<<5.0/3/4.0*360 + 5.0*30<<" + "  //sup
+      <<0.6*380<<" + "  //syr
+      <<0.5*265<<" + "  //helb
+      <<30<<" + "  //finiki
+      <<25<<" + "  //shokoladka
+      <<2*1.8*47<<" + " //jabloko
+      <<2*1.8*43<<"  " //apelsin
       <<endl;
 }

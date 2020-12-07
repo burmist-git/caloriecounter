@@ -11,7 +11,13 @@
 
    This program for storing and plotting the calorie consumption.
 
-## 2. Useful links
+## 2. Daily amounts of protein, Fat, Carbs
+   |     date     | weight(kg) | Protein(g) | Fat(g) | Carbs(g) | 
+   | -------------|------------|------------|--------|----------|
+   |  07.12.2020  |     98     |     115    |   84   |   174    |
+
+## 3. Useful links
+   * https://health-diet.ru
    * brin free book --> (https://brinbook.ru)
    * trenerbrin --> (https://www.youtube.com/c/BrinVIDEO/videos)
    * brin1/8 ---> (https://www.youtube.com/watch?v=xPh95kAQm3k&list=PLAjFgJlXhxRtMFyt0HDTtKHBWcp6eU8tI&index=1)

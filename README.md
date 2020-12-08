@@ -11,10 +11,10 @@
 
    This program for storing and plotting the calorie consumption.
 
-## 2. Daily amounts of protein, Fat, Carbs
-   |     date     | weight(kg) | Protein(g) | Fat(g) | Carbs(g) | 
-   | -------------|------------|------------|--------|----------|
-   |  07.12.2020  |     98     |     115    |   84   |   174    |
+## 2. Daily amounts of protein, fat, carbs, watter
+   |     date     | weight(kg) | protein(g) | fat(g) | carbs(g) | fiber(g) | water(l) |
+   | -------------|------------|------------|--------|----------|----------|----------|
+   |  07.12.2020  |     98     |     115    |   84   |   174    |    20    |   1.8    |
 
 ## 3. Useful links
    * https://health-diet.ru

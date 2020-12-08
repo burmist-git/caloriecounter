@@ -187,6 +187,7 @@
       <<0.5*265<<" "  //helb
       <<endl;
   */
+  /*
   cout<<5.0/3/4.0*360 + 5.0*30<<" + "  //sup
       <<0.6*380<<" + "  //syr
       <<0.5*265<<" + "  //helb
@@ -194,5 +195,33 @@
       <<25<<" + "  //shokoladka
       <<2*1.8*47<<" + " //jabloko
       <<2*1.8*43<<"  " //apelsin
+      <<endl;
+  */
+  /*
+  cout<<0.7*343<<" + "  //grechka
+      <<1.8*133<<" + "  //lama
+      <<4.0*30<<" + "  //salat
+      <<0.05*828<<" + "  //olivkovoe maslo
+      <<1.8*47<<"  " //jabloko
+      <<endl;
+  */
+  /*
+  cout<<2.5*120<<" + "  //kurinye grudki
+      <<1.8*34<<" + "  //brokolli
+      <<4.0*30<<" + "  //salat
+      <<0.1*828<<" + "  //olivkovoe maslo
+      <<91<<" + "  //tvorog
+      <<30<<" + "  //finiki
+      <<1.8*47<<" + " //jabloko
+      <<1.8*43<<" + " //apelsin
+      <<100<<"  " //hleb
+      <<endl;
+  */
+  cout<<1.0*68<<" + "  //quark
+      <<1.0*71<<" + "  //tvorog
+      <<100<<" + "  //HLEB
+      <<0.2*325<<" + "  //Gorgonzola
+      <<0.7*15<<" + "  //pomidory
+      <<15<<"  "  //finik
       <<endl;
 }

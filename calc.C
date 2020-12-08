@@ -217,11 +217,23 @@
       <<100<<"  " //hleb
       <<endl;
   */
+  /*
   cout<<1.0*68<<" + "  //quark
       <<1.0*71<<" + "  //tvorog
       <<100<<" + "  //HLEB
       <<0.2*325<<" + "  //Gorgonzola
       <<0.7*15<<" + "  //pomidory
       <<15<<"  "  //finik
+      <<endl;
+  */
+  cout<<2.5*135<<" + " //ruba
+      <<2.0*31<<" + "  //sparjevaja fasol
+      <<1.4*80<<" + "  //kukuruza
+      <<0.6*15<<" + "  //pomidory
+      <<71+50<<" + "   //tvorog
+      <<50<<" + "      //hleb
+      <<30<<" + "      //shekolad
+      <<1.8*43<<" + "    //apelsin
+      <<1.8*47<<" "    //apelsin
       <<endl;
 }

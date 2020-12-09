@@ -226,6 +226,7 @@
       <<15<<"  "  //finik
       <<endl;
   */
+  /*
   cout<<2.5*135<<" + " //ruba
       <<2.0*31<<" + "  //sparjevaja fasol
       <<1.4*80<<" + "  //kukuruza
@@ -235,5 +236,35 @@
       <<30<<" + "      //shekolad
       <<1.8*43<<" + "    //apelsin
       <<1.8*47<<" "    //apelsin
+      <<endl;
+  */
+  /*
+  cout<<1.8*68<<" + "    //fitness joigurt
+      <<1.0*51<<" + "    //jougurt
+      <<0.5*0.7*125<<" + " //sur proteinovuj
+      <<50<<" + "        //HLEB
+      <<0.3*325<<" + "   //Gorgonzola
+      <<60<<" "        //shokolad
+      <<endl;
+  */
+  /*
+  cout<<0.7*325<<" + "      //ris
+      <<1.5/2.0*170 <<" + " //krasnaja ryba
+      <<0.1*402<<" + "      //parmizan
+      <<2.5*30<<" + "       //salat
+      <<0.03*828<<" + "       //olivkovoe maslo
+      <<60<<" + "           //shokolad
+      <<1.8/2.0*43<<" + "   //apelsin
+      <<1.8*47<<" "         //jabloko
+      <<endl;
+  */
+  cout<<1.4*145<<" + "     //seledka
+      <<1.5*166 <<" + "    //deruny
+      <<1.84*36<<" + "     //kapuska kvashenaja
+      <<0.6/2.0*212<<" + " //HLEB
+      <<2.0*34<<" + "      //brokolli
+      <<3*0.065*269<<" + "   //finiki
+      <<91<<" + "   //quark
+      <<50<<"  "   //quark
       <<endl;
 }

@@ -258,6 +258,7 @@
       <<1.8*47<<" "         //jabloko
       <<endl;
   */
+  /*
   cout<<1.4*145<<" + "     //seledka
       <<1.5*166 <<" + "    //deruny
       <<1.84*36<<" + "     //kapuska kvashenaja
@@ -267,4 +268,71 @@
       <<91<<" + "   //quark
       <<50<<"  "   //quark
       <<endl;
+  */
+  /*
+  cout<<2.0*27<<" + "     //grebu
+      <<0.55*157<<" + "    //jajco
+      <<38<<" + " //HLEB suhoj
+      <<1.9*66<<" + "      //quark fitness
+      <<0.3*41<<" + "   //luk
+      <<0.2*325<<" + "   //gorgonzolla
+      <<0.03*828<<" + "       //olivkovoe maslo
+      <<0.16*367<<"  "   //kozij syr
+      <<endl;  
+  */
+  /*
+  cout<<0.7*371<<" + "     //ovsjanka
+      <<1.35*133<<" + "    //lama
+      <<4.0*30<<" + "      //salat
+      <<0.1*402<<" + "   //parmizan
+      <<0.05*828<<" + "       //olivkovoe maslo
+      <<0.04*743<<" + "       //slivochnoe maslo
+      <<60<<" + "       //shokoladka
+      <<1.8*43<<" + "   //apelsin
+      <<1.8*47<<" "         //jabloko
+      <<endl;  
+  */
+  /*
+  cout<<2.0*116<<" + "     //govjadina
+      <<5.0*30<<" + "     //salat
+      <<1.25*165<<" + "     //mocarella obezj.
+      <<0.05*828<<"  "       //olivkovoe maslo
+      <<endl;
+  */
+  /*
+  cout<<2.0*27<<" + "   //grebu
+      <<0.55*157<<" + " //jajco
+      <<0.26*212<<" + " //HLEB
+      <<0.3*41<<" + "   //luk
+      <<0.03*828<<" + " //olivkovoe maslo
+      <<0.24*367<<" + "  //kozij syr
+      <<60<<" "       //shokoladka
+      <<endl;  
+  */
+  /*
+  cout<<2.0*27<<" + "   //grebu
+      <<0.55*157<<" + " //jajco
+      <<0.26*212<<" + " //HLEB
+      <<0.3*41<<" + "   //luk
+      <<0.03*828<<" + " //olivkovoe maslo
+      <<0.24*367<<" + "  //kozij syr
+      <<60<<" "       //shokoladka
+      <<endl;  
+  */
+  /*
+  cout<<(5.0*113 + 8.0*30 + 2.0*360)/4.0<<" + "   //sup
+      <<0.56*212<<" + " //HLEB
+      <<0.24*362<<" + " //syr narezka
+      <<0.5*125<<" + " //syr proteinovyj
+      <<0.11*402<<" " //parmizan
+      <<endl;  
+  */
+  cout<<10*42<<" + "    //pivo
+      <<2.5*24<<" + "   //kabachok
+      <<2.0*113<<" + "  //kurica
+      <<1.3*85<<" + "   //krivetki
+      <<5.0*30<<" + "   //salat
+      <<0.75*165<<" + " //mocarella obezj.
+      <<0.03*828<<"  "  //olivkovoe maslo
+      <<endl;  
 }

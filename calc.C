@@ -327,6 +327,7 @@
       <<0.11*402<<" " //parmizan
       <<endl;  
   */
+  /*
   cout<<10*42<<" + "    //pivo
       <<2.5*24<<" + "   //kabachok
       <<2.0*113<<" + "  //kurica
@@ -335,4 +336,41 @@
       <<0.75*165<<" + " //mocarella obezj.
       <<0.03*828<<"  "  //olivkovoe maslo
       <<endl;  
+  */
+  /*
+  cout<<0.5*331<<" + "  //zgushenka
+      <<2.0*97<<"  " //tvorog
+      <<endl;
+  */
+  /*
+  cout<<1.0*27<<" + "   //grebu
+      <<1.1*157<<" + "  //jajco
+      <<0.3*41<<" + "   //luk
+      <<0.6*14<<" + "  //pomidor
+      <<0.5*24<<" + "   //kabachok
+      <<0.7*113<<" + "  //kurica
+      <<0.5*85<<" + "   //krivetki
+      <<0.03*828<<" + " //olivkovoe maslo
+      <<0.1*402<<" + "  //parmizan
+      <<43<<" "       //shokoladka
+      <<endl;
+  */
+  /*
+  //bliny
+  cout<<1.3*341<<" + "   //muka
+      <<1.3*326<<" + "   //muka grubova pomola
+      <<0.3*360<<" + "   //muka is kokosa
+      <<0.08*398<<" + "  //sahar
+      <<7.5*47<<" + "  //moloko
+      <<1.1*157<<"  "  //jajco
+      <<endl;  
+  */
+  cout<<2.0*((443.3 + 423.8 + 108 + 31.84 + 352.5 + 172.7)/12.0)<<" + " // bliny
+      <<0.5*331<<" + "  //zgushenka  
+      <<(5.0*113 + 8.0*30 + 2.0*360)/4.0<<" + "   //sup
+      <<0.1*402<<" + "  //parmizan
+      <<0.56*212<<" + " //HLEB
+      <<0.24*362<<" + " //syr narezka
+      <<460<<"  " //mcflurry
+      <<endl;
 }

@@ -399,4 +399,17 @@
       <<1.2*60<<"  "   // zgushenki
       <<endl;
   */
+  /*
+  cout<<4.0*276<<" + " // kartoshka frit
+      <<2.0*281<<" + " // sosiski
+      <<0.4*14<<"  " // pomidor
+      <<endl;
+  */
+   cout<<382/2.0<<" + "   //sup
+       <<1.5*77<<" + "   //ruba
+       <<0.03*828<<" + "  //olivkovoe maslo
+       <<1.5*30<<" + "   //salat
+       <<43/3.0<<" + "  //shokolad 99
+       <<53<<"  "   //olivkovoe maslo
+       <<endl;
 }

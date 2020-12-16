@@ -405,6 +405,7 @@
       <<0.4*14<<"  " // pomidor
       <<endl;
   */
+  /*
    cout<<382/2.0<<" + "   //sup
        <<1.5*77<<" + "   //ruba
        <<0.03*828<<" + "  //olivkovoe maslo
@@ -412,4 +413,54 @@
        <<43/3.0<<" + "  //shokolad 99
        <<53<<"  "   //olivkovoe maslo
        <<endl;
+  */
+  /*
+   cout<<2.0*71<<" + " //syr
+       <<1.0*50<<" + " //jogurt
+       <<1.6*47<<"  "  //grusha
+       <<endl;  
+  */
+  /*
+  cout<<3.0*128<<" + "  //bliny
+       <<2.0*133<<" + "  //lama
+       <<3.0*30<<" + "   //salata
+       <<0.25*331<<"  "  //zgushenka
+       <<endl;
+  */
+  /*
+  cout<<1.5*166 <<" + " //deruny
+      <<2.0*34<<" + "   //brokolli
+      <<1.5*145<<" + "  //seledka
+      <<1.8*47<<" + "   //jabloko
+      <<1.2*38<<" + "   //mandarin
+      <<0.25*331<<" + " //zgushenka
+      <<130<<"  "       //blin
+      <<endl;      
+  */
+  /*
+  cout<<1.0*128<<" + " //blin
+      <<0.23*331<<" + " //zgushenka
+      <<71 + 50<<" + " //tvorog + jogurt
+      <<47<<" + "      //moloko
+      <<43/3.0<<" + "  //shokolad 99
+      <<53<<"  "       //shokolad
+      <<endl;
+  */
+  /*
+  cout<<0.7*352<<" + " //chichevica
+      <<2.0*133<<" + " //lama
+      <<1.0*128<<" + " //blin
+      <<0.20*331<<"  " //zgushenka
+      <<endl;
+  */
+  /*
+  cout<<2.0*24<<" + "   //kabachok
+      <<2.0*113<<" + "  //kurica
+      <<1.2*79<<" + "   //krivetki
+      <<4.0*30<<" + "   //salat
+      <<0.03*828<<" + "  //olivkovoe maslo
+      <<0.5*265<<" + "  //hleb
+      <<2.0*52<<"  "  //ananas
+      <<endl;  
+  */  
 }

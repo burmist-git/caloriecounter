@@ -463,4 +463,29 @@
       <<2.0*52<<"  "  //ananas
       <<endl;  
   */  
+  /*
+  cout<<1.1*48<<" + "  //moloko
+      <<44<<" + "   //filadelfija
+      <<0.5*125<<" + "   //syr proteinovuj
+      <<0.63*265<<"  "  //hleb
+      <<endl;  
+  */
+  /*
+  cout<<1.0*350<<" + "  //pasta
+      <<1.7*19<<" + " //gribu
+      <<1.5*105<<" + "  //tunec
+      <<0.13*402<<" + "  //parmizan
+      <<3.0*30<<" + "  //salat
+      <<0.06*828<<" "  //olivkovoe maslo
+      <<endl;  
+*/
+  cout<<5.0/3.0*116<<" + "  //govjadina
+      <<2.5*23<<" + " //fasol 
+      <<0.7*265<<" + "  //HLEB
+      <<88<<" + "  //filadelfija
+      <<1.0*91<<" + "  //sur
+      <<0.3*216<<" + "  //varenie
+      <<0.03*828<<" "  //olivkovoe maslo
+      <<endl;  
+
 }

@@ -479,6 +479,7 @@
       <<0.06*828<<" "  //olivkovoe maslo
       <<endl;  
 */
+  /*
   cout<<5.0/3.0*116<<" + "  //govjadina
       <<2.5*23<<" + " //fasol 
       <<0.7*265<<" + "  //HLEB
@@ -487,5 +488,12 @@
       <<0.3*216<<" + "  //varenie
       <<0.03*828<<" "  //olivkovoe maslo
       <<endl;  
-
+  */
+  cout<<1.9*68<<" + "  //jugurt
+      <<1.0*50<<" + " //jogurt 
+      <<0.4*265<<" + "  //HLEB
+      <<44<<" + "  //filadelfija
+      <<0.3*331<<" + " //zgushenka
+      <<43/3.0<<"  "  //shokolad 99
+      <<endl;
 }

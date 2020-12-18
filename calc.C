@@ -489,6 +489,7 @@
       <<0.03*828<<" "  //olivkovoe maslo
       <<endl;  
   */
+  /*
   cout<<1.9*68<<" + "  //jugurt
       <<1.0*50<<" + " //jogurt 
       <<0.4*265<<" + "  //HLEB
@@ -496,4 +497,28 @@
       <<0.3*331<<" + " //zgushenka
       <<43/3.0<<"  "  //shokolad 99
       <<endl;
+  */
+  /*
+  cout<<0.7*371<<" + "  //avsjanka
+      <<3.20/2.0*116<<" + "  //ryba
+      <<0.05*743<<" + " //maslo slivochnoe 
+      <<0.4*265<<" + "  //HLEB
+      <<0.3*325<<" + "  //gorgonzolla
+      <<1.0*47<<" + " //moloko
+      <<0.03*828<<" "  //olivkovoe maslo
+      <<endl;  
+  */
+  //cout<<(4.5/2.0*57 + 6.0/2.0*30 + 4.0*113 + 2.5/3.0*255)/4.0<<endl;  
+  cout<<0.5*38<<" + "  //mandarin
+      <<0.2*216<<" + "  //varenie
+      <<1.0*97<<" + " //quark
+      <<221<<" + " //sup 
+      <<3.0*31<<" + "  //sparjevaja fasol
+      <<0.4*265<<" + "  //HLEB
+      <<88<<" + "  //filadelfija
+      <<0.3*325<<" + " //Gorgonzolla
+      <<1.0*1.8*43<<" + " //apelsin
+      <<5.0/3.0/2.0*173<<"  " //govjadina
+      <<endl;
+
 }

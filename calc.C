@@ -541,8 +541,38 @@
       <<100<<" "  //sous
       <<endl;  
   */
+  /*
   cout<<800<<" + "  // lozanija
       <<(0.5*260 + 2.0*47 + 1.0*260 + 1.5*47 + 1.0*260 + 1.5*47)<<" + "  //gin tonik
       <<120<<" "  //sous
       <<endl;  
+  */
+  /*
+  cout<<120<<" + "  // blin
+      <<0.3*331<<" + " //zgushenka
+      <<1.2*48<<" "  //moloko
+      <<endl;  
+  */
+  /*
+  cout<<2.5*120<<" + "  // blin
+      <<221<<" + "  // sup
+      <<0.3*180<<" + " //varenie
+      <<44<<" + "  //filadelfija
+      <<0.15*402<<" + "  //parmizan
+      <<1.8*50<<" + "  //apesiny_mandarin
+      <<0.7*111<<"  "  //krasnaja ryba
+      <<endl;  
+  */
+  cout<<120<<" + "  // blin
+      <<0.4*181<<" + " //varenie
+      <<1.0*1.8*47<<" + " //jabloko
+      <<1.5*72<<" + " //ruba
+      <<2.0*34<<" + " //brokolli
+      <<4.0*30<<" + " //salat
+      <<1.8*50<<" + "  //apesiny_mandarin
+      <<0.3*325<<" + "  //Gorgonzolla    
+      <<0.08*828<<" + "  //olivkovoe maslo
+      <<0.4*181<<" + " //varenie
+      <<71<<"  " //tvorog
+      <<endl;
 }

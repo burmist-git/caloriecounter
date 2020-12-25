@@ -171,6 +171,6 @@
 |                                |                                                     |
 |  Fri Dec 25 17:20:46 CET 2020  |  1450 kCal                                          |
 |                                |  710 kCal                                           |
-|                                |   kCal                                          |
+|                                |  414 kCal                                           |
 |                                |                                                     |
-|                                |  TOTAL:   kCal                                  |
+|                                |  TOTAL: 2574  kCal                                  |

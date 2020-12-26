@@ -725,9 +725,35 @@
       <<0.5*47<<" "    //moloko    
       <<endl;
   */
+  /*
   cout<<1.5*180<<" + " //krasnaja ruba
       <<4.0*30<<" + " //salat
       <<0.5*47<<" " //luk
       <<endl;
-
+  */
+  /*
+  cout<<2.0*47<<" + "  //moloko
+      <<0.3*110<<" + " //varenie110
+      <<130<<" + " //blin
+      <<60<<" + " //filadelfija
+      <<91<<" + " //tvorog
+      <<50<<" " //jogurt
+      <<endl;
+  */
+  /*
+  cout<<0.7*371<<" + "  //avsjanka
+      <<2.0*180<<" + " //govjadina
+      <<15 + 15 + 0.6*47<<" + " //pomidor ogurc luk
+      <<43/3.0<<" + "  //shokolad 99
+      <<0.06*828<<" + "   //olivkovoe maslo
+      <<53<<"  "       //shokolad
+      <<endl;  
+  */
+  cout<<1.5*24<<" + "   //kabachok
+      <<1.2*79<<" + "   //krivetki
+      <<2.0*31<<" + "   //sparjevaja fasol
+      <<0.6*157<<" + "  //jajco
+      <<0.06*828<<" + " //olivkovoe maslo
+      <<0.3*325<<"  "   //Gorgonzola
+      <<endl;
 }

@@ -754,6 +754,8 @@
       <<2.0*31<<" + "   //sparjevaja fasol
       <<0.6*157<<" + "  //jajco
       <<0.06*828<<" + " //olivkovoe maslo
-      <<0.3*325<<"  "   //Gorgonzola
+      <<0.3*325<<" + "   //Gorgonzola
+      <<0.5*1.8*50<<" + "  //apesiny_mandarin
+      <<40<<"  "  //finiki + kuraga
       <<endl;
 }

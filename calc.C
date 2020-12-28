@@ -777,6 +777,7 @@
       <<30<<"  "   //finiki
       <<endl;
   */
+  /*
   cout<<1.5*80<<" + "  //kukuruza
       <<1.5*105<<" + "  //tunec
       <<15 + 0.6*47<<" + " //ogurec perec
@@ -784,4 +785,33 @@
       <<1.5*166<<" + "   //derynu
       <<10*47<<" "   //pivo
       <<endl;  
+  */
+  /*
+  cout<<2.0*91<<" + "  //tvorog
+      <<1.2*50<<" + "  //jogurt
+      <<0.25*110<<" + " //varenie110
+      <<0.3*78<<" + "   //pure fructovoe
+      <<1.5*47<<" + "   //moloko
+      <<0.6*157<<" + "     //jajco
+      <<0.3*30 + 14<<" + " //gribu + pomidor
+      <<0.03*828<<" "      //olivkovoe masl
+      <<endl;
+  */
+  /*
+  cout<<1.0*47<<" + "   //moloko
+      <<1.25*180<<" + "  //vurezka
+      <<121<<" + "   //snikers
+      <<0.25*443<<" + "   //pesto
+      <<1.25*255<<" + "   //pasta
+      <<1.0*27.0<<" + " //Champinjony
+      <<1*1.8*43<<" + " //apelsin
+      <<0.3*47<<" + "   //luk
+      <<0.03*828<<" "      //olivkovoe masl
+      <<endl;
+  */
+  cout<<1.0*91<<" + "   //tvorgo
+      <<1.0*70<<" + "  //tvorgo
+      <<50<<" + "   //jogurt
+      <<0.2*110<<" "   //varenie110
+      <<endl;
 }

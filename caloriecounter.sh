@@ -27,7 +27,7 @@ function plot_sh {
 #|                                |                                                     |
 #|                                |  TOTAL: 2257 kCal                                   |
 function plot_py_sh {
-    wcl=$(conda env list | grep $condaEvnName | wc -l)
+    wcl=$(conda env list | grep '*' | awk {'print $3'} | grep calories | wc -l)
     if [ $wcl = 0 ]; then
 	create_conda_env_sh
     else
@@ -89,7 +89,6 @@ inRootFile=$outRootFile
 vecNamesFile=$sourceHome'/vectorOfinDataValuesNames.dat'
 consumptionLog=$sourceHome'/consumption.md'
 condaEvnName='calories'
-
 
 mkdir -p $dataFolder
 

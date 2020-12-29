@@ -820,9 +820,34 @@
   cout<<1.9*75<<" + "  //tvorgo fitness
       <<endl;
   */
+  /*
   cout<<0.25*443<<" + "  //pesto
       <<1.25*255<<" + "  //pasta
       <<2.5*133.0<<" + " //lama
       <<40<<"  " //shokolad
+      <<endl;
+  */
+  //bliny
+  cout<<3.5*326<<" + "  //muka grubova pomola
+      <<0.3*360<<" + "  //muka grechki
+      <<0.16*398<<" + " //sahar
+      <<10.0*47<<" + "  //moloko
+      <<0.6*157<<"  "   //jajco
+      <<endl;  
+  /*
+  //zavarnoj krem
+  cout<<0.3*360<<" + " //muka grubova pomola
+      <<1.6*400<<" + "  //sahar
+      <<4.0*47<<" + "  //moloko
+      <<0.6*157<<"  "   //jajco
+      <<endl;
+  */
+  cout<<0.2*201<<" + "  //HLEB
+      <<0.25*325<<" + " //Gorgonzolla
+      <<1.7*47<<" + "   //moloko
+      <<2.56*167<<" + " //seledka
+      <<5.0*30<<" + "   //salat
+      <<100 + 47<<" + " //blin + krem zavarnoj
+      <<460<<"  "       //bliny++
       <<endl;
 }

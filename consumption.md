@@ -195,6 +195,6 @@
 |                                |                                                     |
 |  Tue Dec 29 13:58:44 CET 2020  |  M: 143 kCal                                        |
 |                                |  D: 802 kCal                                        |
-|                                |  E: kCal                                            |
+|                                |  E: 1386 kCal                                       |
 |                                |                                                     |
-|                                |  TOTAL:   kCal                                  |
+|                                |  TOTAL: 2331  kCal                                  |

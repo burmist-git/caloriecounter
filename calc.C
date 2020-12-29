@@ -809,9 +809,20 @@
       <<0.03*828<<" "      //olivkovoe masl
       <<endl;
   */
+  /*
   cout<<1.0*91<<" + "   //tvorgo
       <<1.0*70<<" + "  //tvorgo
       <<50<<" + "   //jogurt
       <<0.2*110<<" "   //varenie110
+      <<endl;
+  */
+  /*
+  cout<<1.9*75<<" + "  //tvorgo fitness
+      <<endl;
+  */
+  cout<<0.25*443<<" + "  //pesto
+      <<1.25*255<<" + "  //pasta
+      <<2.5*133.0<<" + " //lama
+      <<40<<"  " //shokolad
       <<endl;
 }

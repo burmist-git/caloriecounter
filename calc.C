@@ -828,12 +828,14 @@
       <<endl;
   */
   //bliny
+  /*
   cout<<3.5*326<<" + "  //muka grubova pomola
       <<0.3*360<<" + "  //muka grechki
       <<0.16*398<<" + " //sahar
       <<10.0*47<<" + "  //moloko
       <<0.6*157<<"  "   //jajco
-      <<endl;  
+      <<endl;
+  */  
   /*
   //zavarnoj krem
   cout<<0.3*360<<" + " //muka grubova pomola
@@ -842,6 +844,7 @@
       <<0.6*157<<"  "   //jajco
       <<endl;
   */
+  /*
   cout<<0.2*201<<" + "  //HLEB
       <<0.25*325<<" + " //Gorgonzolla
       <<1.7*47<<" + "   //moloko
@@ -849,5 +852,26 @@
       <<5.0*30<<" + "   //salat
       <<100 + 47<<" + " //blin + krem zavarnoj
       <<460<<"  "       //bliny++
+      <<endl;
+  */
+  /*
+  cout<<1.5*185.2<<" + " //bliny++
+      <<0.6*157<<" + "   //jajco
+      <<0.5*27<<" + "    //griby
+      <<0.03*828<<" "    //olivkovoe maslo
+      <<endl;
+  */
+  /*
+  cout<<0.7*371<<" + " //ovsjanka
+      <<2.0*211<<" + " //svinina
+      <<1.0*30<<" + " //salat
+      <<1.0*185.2<<"  " //bliny++
+      <<endl;
+  */
+  cout<<400<<" + " //ragu
+      <<70<<" + " //sous
+      <<0.5*321<<" + " //sur kosichka
+      <<1.5*185.2<<" + " //bliny++
+      <<3*100.0<<"  " //konfety++
       <<endl;
 }

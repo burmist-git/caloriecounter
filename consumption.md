@@ -206,7 +206,13 @@
 |                                |  TOTAL: 2516  kCal                                  |
 |                                |                                                     |
 |  Thu Dec 31 12:00:47 CET 2020  |  M: 627 kCal                                        |
-|                                |  D:  kCal                                        |
+|                                |  D: 931 kCal                                        |
+|                                |  E: 2823 kCal                                       |
+|                                |                                                     |
+|                                |  TOTAL: 4381  kCal                                  |
+|                                |                                                     |
+|  Fri Jan  1 16:49:45 CET 2021  |  M: 1035 kCal                                       |
+|                                |  D: 355 kCal                                        |
 |                                |  E:  kCal                                       |
 |                                |                                                     |
 |                                |  TOTAL:   kCal                                  |

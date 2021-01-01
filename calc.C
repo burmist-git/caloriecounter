@@ -876,10 +876,46 @@
       <<3*100.0<<"  "    //konfety++
       <<endl;
   */
+  /*
   cout<<1.6*159<<" + "   //tvorog
       <<1.3*50<<" + "    //jugurt
       <<1.0*78<<" + "    //fruktovoe pure
       <<1.0*185.2<<" + " //bliny++
       <<0.4*110.0<<"  "  //varenie110
       <<endl;
+  */
+  //cout<<(5.0*113 + 8.0*30 + 1.5*380)/4.0<<endl;   //sup
+  /*
+  cout<<1.5*47<<" + "   //moloko
+      <<350<<" + "   //sup
+      <<350<<" + "   //ragu
+      <<0.5*321<<"  "   //sur kosichka
+      <<endl;
+  */
+  /*
+    cout<<2.0*180<<" + "    // krasnaja ryba
+	<<2.0*350<<" + "     // teramisu
+	<<5.0*100<<" + "  // 5 konfet
+	<<2*1.8*43<<" + " //apelsin
+	<<2.0*172<<" + "  // olive
+	<<2.0*173<<" + "  // risovuj salat
+	<<1.0*30<<" + "  // ovojnoj salat
+	<<2.0*77<<" + "  // kartoshka
+	<<1.3*180<<" "  // seledka
+      	<<endl;
+  */
+  /*
+  cout<<5.0*47<<" + "  //  pivo
+      <<1.5*350<<" + " //  gin tonik
+      <<0.5*350<<" + " //  romkolla                     
+      <<1.0*100<<"   " // shampanskoe
+      <<endl;
+  */
+  /*
+  cout<<1.3*159<<" + "   //tvorog
+      <<1.0*50<<" + "    //jugurt
+      <<0.25*110.0<<" + "  //varenie110
+      <<1.5*47<<"  "  //moloko
+      <<endl;
+  */
 }

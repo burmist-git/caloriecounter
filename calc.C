@@ -918,11 +918,37 @@
       <<1.5*47<<"  "  //moloko
       <<endl;
   */
+  /*
   cout<<300<<" + "      //sup
       <<300<<" + "      //ragu
       <<0.13*400<<" + " //parmizan
       <<0.45*133<<" + " //krasnjaja ruba
       <<2.0*47<<"  "    //kefir
       <<endl;
-
+  */
+  /*
+  cout<<2.0*91<<" + "   //tvorog
+      <<1.0*50<<" + "    //jugurt
+      <<0.3*110.0<<" + "  //varenie110
+      <<1.5*47<<" + "  //moloko
+      <<2.5*47<<"  "  //kefir
+      <<endl;
+  */
+  /*
+  cout<<1.8*189<<" + " //stejk
+      <<2.5*34<<" + "  //brokolli
+      <<4.0*30<<" + "  //salat
+      <<15<<" + "  //finik
+      <<53<<"  "  //shokolad
+      <<endl;  
+  */
+  cout<<2.5*24<<" + "   //kabachok
+      <<2.0*113<<" + "  //kurica
+      <<1.2*85<<" + "   //krivetki
+      <<100<<" + "      //HLEB
+      <<0.22*328<<" + " //syr
+      <<0.03*828<<" + " //olivkovoe maslo
+      <<2.0*31<<" + "   //sparjevaja fasol
+      <<30 + 53<<"  "   //finik shokolad
+      <<endl;
 }

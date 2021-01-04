@@ -942,6 +942,7 @@
       <<53<<"  "  //shokolad
       <<endl;  
   */
+  /*
   cout<<2.5*24<<" + "   //kabachok
       <<2.0*113<<" + "  //kurica
       <<1.2*85<<" + "   //krivetki
@@ -951,4 +952,62 @@
       <<2.0*31<<" + "   //sparjevaja fasol
       <<30 + 53<<"  "   //finik shokolad
       <<endl;
+  */
+  /*
+  cout<<2.0*97<<" + "    //tvorog
+      <<0.3*69<<" + "    //fruktovoe pure
+      <<0.3*110.0<<" + " //varenie110
+      <<1.5*47<<" + "    //moloko
+      <<0.65*53<<"  "    //shokolad
+      <<endl;
+  */
+  /*
+  cout<<3.5*77<<" + "    //kartofel
+      <<1.5*27<<" + "    //griby
+      <<0.06*828<<" + "   //olivkovoe maslo
+      <<0.3*47<<" + "    //luk
+      <<1.24*144.0<<" + " //ruba
+      <<10.0*47<<" "    //pivo
+      <<endl;  
+  */
+  /*
+  cout<<3.0*135<<" + "  //ruba forel
+      <<3.0*31<<" + "   //sparjevaja fasol
+      <<0.06*828<<" + "   //olivkovoe maslo
+      <<1.15/6*125<<" + " //syr
+      <<5.0*47<<" "    //pivo
+      <<endl;  
+  */
+  /*
+  cout<<1.0*360<<" + "  //makarony
+      <<0.15*400<<" + " //parmizan
+      <<0.35*443<<" + " //pesto
+      <<0.7*360<<" + "  //pirojok
+      <<1.0*47<<" + "   //moloko
+      <<0.15*400<<" "   //sahar
+      <<endl;  
+  */
+  //Sendvich 263 kCal
+  /*
+  cout<<5.0/8*210<<" + "     //HLEB
+      <<0.25*330<<" + "      //syr
+      <<0.5*14<<" + "        //pomidor
+      <<0.8/5.0*2.0*130<<" " //mjaso narazka
+      <<endl;
+  */
+  /*
+  cout<<2*263<<"  "     //sendvich
+      <<endl;
+  */
+  cout<<2*1.8*43<<" + " //apelsin
+      <<2.0*113<<" + " //kurica
+      <<1.3*85<<" + "  //krivetki
+      <<3.0*30<<" + "  //salat
+      <<1.2*17<<" + "  //griby
+      <<0.4*47<<" + "  //luk
+      <<0.06*828<<" + "   //olivkovoe maslo
+      <<5.0*47<<" + "   //pivo
+      <<120<<" "   //shokolad
+      <<endl;
+
 }

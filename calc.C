@@ -999,6 +999,7 @@
   cout<<2*263<<"  "     //sendvich
       <<endl;
   */
+  /*
   cout<<2*1.8*43<<" + " //apelsin
       <<2.0*113<<" + " //kurica
       <<1.3*85<<" + "  //krivetki
@@ -1009,5 +1010,38 @@
       <<5.0*47<<" + "   //pivo
       <<120<<" "   //shokolad
       <<endl;
-
+  */
+  /*
+  cout<<0.5*180<<" + "  //syr_180
+      <<1.0*72<<" + "   //tvorog_72
+      <<1.0*46<<" + "   //tvorog_46
+      <<0.05*400<<" + " //sahar
+      <<60<<" "         //shokolad85
+      <<endl;
+  */
+  /*
+  cout<<3.5*70<<" + "  //sup
+      <<0.6*352<<" + " //perlovka
+      <<250<<"  "      //korden ble
+      <<endl;
+  */
+  /*
+  cout<<330<<" + "        //pirog
+      <<250<<" + "        //HELB
+      <<1.1*120<<" + "    //svinannja vurezka
+      <<2.5*47<<" + "     //pivo
+      <<0.7*1.8*43<<" + " //jabloko
+      <<2*1.8*43<<" + "   //apelsin
+      <<30<<" + "         //shokolad85
+      <<60<<" + "         //shokolad
+      <<3.0*30<<"  "      //salat
+      <<endl;
+  */
+  cout<<2*52<<" + "     //Patits fromages frais
+      <<1.25*17.0<<" + " //Champinjony
+      <<0.3*41<<" + "   //Luk
+      <<1.2*157<<" + "  //jajco
+      <<0.6*14<<" + "   //pomidor
+      <<0.06*828<<" "   //olivkovoe maslo
+      <<endl;  
 }

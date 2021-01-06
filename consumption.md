@@ -234,3 +234,15 @@
 |                                |  E: 1026 kCal                                       |
 |                                |                                                     |
 |                                |  TOTAL: 2487  kCal                                  |
+|                                |                                                     |
+|  Tue Jan  5 12:47:25 CET 2021  |  M: 288 kCal                                        |
+|                                |  D: 707 kCal                                        |
+|                                |  E: 1219 kCal                                       |
+|                                |                                                     |
+|                                |  TOTAL: 2214  kCal                                  |
+|                                |                                                     |
+|  Wed Jan  6 13:02:57 CET 2021  |  M: 389 kCal                                        |
+|                                |  D:  kCal                                        |
+|                                |  E:  kCal                                       |
+|                                |                                                     |
+|                                |  TOTAL:   kCal                                  |

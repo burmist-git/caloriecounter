@@ -1037,6 +1037,7 @@
       <<3.0*30<<"  "      //salat
       <<endl;
   */
+  /*
   cout<<2*52<<" + "     //Patits fromages frais
       <<1.25*17.0<<" + " //Champinjony
       <<0.3*41<<" + "   //Luk
@@ -1044,4 +1045,57 @@
       <<0.6*14<<" + "   //pomidor
       <<0.06*828<<" "   //olivkovoe maslo
       <<endl;  
+  */
+  /*
+  cout<<1.5*276<<" + "   //kartoshka free
+      <<1.5*31<<" + "   //sparjevaja fasol
+      <<1.0*500<<" + "  //svinnoj bochok
+      <<0.15*828<<" "   //olivkovoe maslo
+      <<endl;
+  */
+  /*
+  cout<<2.5*206<<" + " //losos
+      <<4*30<<" + "    //salat
+      <<0.05*400<<" + "  //sahar
+      <<60<<" + "  //shokolad85
+      <<1.2*43<<" " //apelsin
+      <<endl;
+  */
+  /*
+  cout<<4.0*251<<" + " //morojenoe
+      <<60<<" + "  //shokolad85
+      <<60<<" + "  //shokolad
+      <<60<<" + "  //pichenie
+      <<1.2*43<<" " //apelsin
+      <<endl;
+  */
+  /*
+  cout<<0.58*204<<" + " //HLEB
+      <<0.3*252<<" + "  //namazka
+      <<0.3*152<<" + "  //varenie
+      <<0.5*180<<" + "  //sur
+      <<1.5*46<<" + "  //sur46
+      <<0.5*46<<" + "  //sur72
+      <<1.2*43<<" " //apelsin
+      <<endl;
+  */
+  /*
+  cout<<0.6*360<<" + " //kus-kus
+      <<2.0*180<<" + " //losos
+      <<4.0*30<<" + "  //salat
+      <<0.3*47<<" + "  //luk
+      <<60<<" + "  //shokolad85
+      <<52<<" + "  //sur
+      <<1.2*47<<"  "   //jabloco
+      <<endl;
+  */
+  cout<<2.5*24<<" + "   //kabachok
+      <<1.5*27<<" + "   //gribu
+      <<1.3*85<<" + "   //krivetki
+      <<0.03*828<<" + " //olivkovoe maslo
+      <<0.44*485<<" + " //konfety
+      <<60<<" + " //shokolad
+      <<4.0*30<<" + " //salat
+      <<3.0*35<<"  " //grejpfrukt
+      <<endl;
 }

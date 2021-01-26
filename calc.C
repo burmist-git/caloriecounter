@@ -1250,7 +1250,8 @@
       <<100<<" + "      //syr
       <<0.3*121<<"  "   //varenie121
       <<endl;
-  */  
+  */
+  /*
   cout<<0.4*121<<" + " //varenie121
       <<2.0*47<<" + " //moloko
       <<0.6*180<<" + " //syr
@@ -1258,4 +1259,13 @@
       <<144<<" + "  //Gerble144
       <<106<<"  "  //Gerble106
       <<endl;
+  */
+  cout<<0.35*113<<" + " //varenie113
+      <<1.0*46<<" + " //syr46
+      <<1.0*72<<" + " //syr72
+      <<1.0*72<<" + " //syr72
+      <<144<<" + "  //batonchikEnergetichaskij144
+      <<106<<"  "  //batonchikEnergetichaskij106
+      <<endl;
+
 }

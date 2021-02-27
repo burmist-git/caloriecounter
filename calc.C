@@ -1260,6 +1260,7 @@
       <<106<<"  "  //Gerble106
       <<endl;
   */
+  /*
   cout<<0.35*113<<" + " //varenie113
       <<1.0*46<<" + " //syr46
       <<1.0*72<<" + " //syr72
@@ -1267,5 +1268,9 @@
       <<144<<" + "  //batonchikEnergetichaskij144
       <<106<<"  "  //batonchikEnergetichaskij106
       <<endl;
-
+  */
+  cout<<800<<" + " //
+      <<900<<" + " //
+      <<400<<" " //
+      <<endl;  
 }
